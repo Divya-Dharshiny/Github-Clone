@@ -4,6 +4,6 @@ Used Stacks: Html, Css, Bootstrap, Javascript.
 
 Screenshots of the project ⬇️
 
-![](github-clone.png)
+![](github.png)
 
 live demo: https://githubclonehackathon.netlify.app/
